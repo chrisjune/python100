@@ -1,0 +1,5 @@
+print(type({1,2,3,4}))
+print(type({}))
+print(type(set('python')))
+print(type(set(range(5))))
+print(type(set()))
